@@ -22,3 +22,7 @@ react-native-ble-plx (Bluetooth Frontend)
 3D Print gearbox enclosure and mounting brackets for the steering device.
 Build steering AI
 Create a more practical design using micro controller and custom PCB components.
+
+
+##### Video Demo
+https://www.youtube.com/watch?v=OosS0q6igzM
